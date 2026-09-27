@@ -12,9 +12,9 @@ Desarrollar un sistema que permita mejorar la organización y gestión de los pr
 
 ## Tecnologías utilizadas
 
-- Git
-- GitHub
-- Programación
+* Git
+* GitHub
+* Programación
 
 ## Control de versiones
 
@@ -22,4 +22,9 @@ El proyecto utilizará Git para controlar las diferentes versiones del código y
 
 ## Integrantes
 
-- Keyla choque
+* Keyla choque
+
+
+
+Nueva funcionalidad para el proyecto TiendaAbarrotes.
+
